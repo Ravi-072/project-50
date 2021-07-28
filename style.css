@@ -1,0 +1,32 @@
+h1 {
+  color: black;
+  }
+
+.header {
+  background-color: greenyellow;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.menu { 
+  display: flex;
+  justify-content: space-between;
+  background-color: greenyellow;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: black;
+}
+
+.grid img{
+  border: 7px solid black;
+  border-radius: 20px;
+}
+
+.origami {
+  border-radius: 20px;
+  background-color:green;
+
+  width: 310px;
+  font-family: fantasy;
+}
